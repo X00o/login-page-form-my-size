@@ -49,7 +49,7 @@ display: none;
       transition: all 0.5s ease;
       background:linear-gradient(to right,  rgb(255 255 255) ,#4dffc1);
       text-align: center;
-      padding: 104px 0px;
+      padding: 4px 0px;
       z-index: 1;
 }
 
